@@ -12,7 +12,7 @@ Repositório para armazenar resumos sobre Git e GitHub do curso Versionamento de
 
 | Aulas | Resumos |
 | ------| --------|
-| Gravando Alterações no Repositório Local | [Resumos](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/) |
+| Gravando Alterações no Repositório Local | [Resumo](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/) |
 
 ```
 git init
